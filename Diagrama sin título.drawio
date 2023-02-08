@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T14:33:58.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sYMjOj9QX4zKN9DyJh3H" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T15:20:33.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5KQmSuwBceq2CNKxv47_" version="20.8.17" type="github">
   <diagram name="Página-1" id="ytX--Y85FsWB8EHXXyhq">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,12 +26,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wFE6L6VrelONgTwsdIlD-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Soy Ingeniero Electrónico, tengo una amplia carrera en las comunicaciones&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;br&gt;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=roboto;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="630" height="280" as="geometry" />
+          <mxGeometry x="170" y="190" width="630" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="wFE6L6VrelONgTwsdIlD-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;fontSize=18;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3399FF;" edge="1" parent="1">
+        <mxCell id="wFE6L6VrelONgTwsdIlD-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;fontSize=18;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3399FF;" edge="1" parent="1" target="wFE6L6VrelONgTwsdIlD-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="362.5000000000002" y="470" as="sourcePoint" />
-            <mxPoint x="607.5" y="470" as="targetPoint" />
+            <mxPoint x="362.5000000000002" y="450" as="sourcePoint" />
+            <mxPoint x="607.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-17" value="Datos Personales" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;fillColor=none;gradientColor=none;swimlaneLine=0;rowLines=0;columnLines=1;swimlaneHead=0;swimlaneBody=0;horizontal=1;top=0;bottom=0;left=0;right=0;separatorColor=#3399FF;strokeWidth=2;connectable=1;allowArrows=1;dropTarget=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="231" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-17">
+          <mxGeometry y="30" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Fecha nacimiento&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-18">
+          <mxGeometry width="115" height="20" as="geometry">
+            <mxRectangle width="115" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;30 / 04 /72&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-18">
+          <mxGeometry x="115" width="116" height="20" as="geometry">
+            <mxRectangle width="116" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-17">
+          <mxGeometry y="50" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Lugar de nacimiento&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-22">
+          <mxGeometry width="115" height="20" as="geometry">
+            <mxRectangle width="115" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Villa Elisa, ER&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-22">
+          <mxGeometry x="115" width="116" height="20" as="geometry">
+            <mxRectangle width="116" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-17">
+          <mxGeometry y="70" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Lugar de residencia&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-26">
+          <mxGeometry width="115" height="20" as="geometry">
+            <mxRectangle width="115" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Santa Fe, SF&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-26">
+          <mxGeometry x="115" width="116" height="20" as="geometry">
+            <mxRectangle width="116" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-17">
+          <mxGeometry y="90" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Nacionalidad&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-30">
+          <mxGeometry width="115" height="20" as="geometry">
+            <mxRectangle width="115" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFE6L6VrelONgTwsdIlD-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Argentina&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=solid;fontFamily=roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Droboto;" vertex="1" parent="wFE6L6VrelONgTwsdIlD-30">
+          <mxGeometry x="115" width="116" height="20" as="geometry">
+            <mxRectangle width="116" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
